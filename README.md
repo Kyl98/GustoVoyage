@@ -24,4 +24,4 @@ Récupéré le projet du git et faire un git clone dans le terminal : <br>
 
 `npm run dev` → Démarrer le serveur <em>ctrl + clique gauche pour l'ouvrir,</em> <br>
 Le projet sera disponible généralement sur http://localhost:5173 <br>
-lien qui mène à l'aperçu du site : https://axelpm4.github.io/GustoVoyage/index.html
+lien qui mène à l'aperçu du site : https://kyl98.github.io/GustoVoyage/index.html
