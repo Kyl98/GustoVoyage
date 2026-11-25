@@ -1,0 +1,28 @@
+{
+  "name": "gustovoyage",
+  "version": "1.0.0",
+  "description": "<h1>Marche à suivre pour la mise en place du projet </h1>\r <strong>Prérequis : NodeJs,Vite, cmd et npm</strong> \r <br>\r <h2>Récupérer le projet ouvrir depuis Git</h2>\r Récupéré le projet du git et faire un git clone dans le terminal : <br>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axelpm4/GustoVoyage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axelpm4/GustoVoyage/issues"
+  },
+  "homepage": "https://github.com/axelpm4/GustoVoyage#readme",
+  "devDependencies": {
+    "sass": "^1.108.2",
+    "vite": "^8.3.8"
+  }
+ 
+}
